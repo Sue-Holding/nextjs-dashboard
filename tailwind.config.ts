@@ -18,6 +18,10 @@ const config: Config = {
           600: '#2F6FEB',
         },
       },
+      borderWidth: {
+        15: '15px',
+        26: '26px',
+      },
     },
     keyframes: {
       shimmer: {
